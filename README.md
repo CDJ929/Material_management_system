@@ -15,7 +15,7 @@ Java开发工具：JKD、IDEA/vscode
 项目所需资料：
 MySQL8.0.18.0
 Navicat Premium 12
-JDK-8u162
-ideaIU2019.2.3以上或Visual studio Code
-maven-3.6.3
-tomcat-9.0.35
+JDK-8u162（需要用到import com.sun.org.apache.regexp.internal.RE;）
+ideaIU2019.2.3以上或Visual studio Code（任意版本）
+maven-3.6.3或以上版本
+tomcat-9.0.35或8开头的版本
